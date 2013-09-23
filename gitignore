@@ -1,0 +1,12 @@
+.*.swp
+tags
+.swo
+*.elc
+jferris-*.gemspec
+*.scratch.*
+nbproject
+.idea
+.DS_Store
+.rbenv-version
+*.iml
+.rvmrc
