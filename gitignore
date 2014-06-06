@@ -10,3 +10,5 @@ nbproject
 .rbenv-version
 *.iml
 .rvmrc
+/log*.log
+/.yardoc

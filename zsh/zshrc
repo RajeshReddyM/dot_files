@@ -67,8 +67,10 @@ alias bec="bundle exec cucumber"
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
-
-
+alias ..='cd ..'
+alias cd..='cd ..'
+alias cd...='cd ../..'
+alias cd....='cd ../../..'
 
 
 source $ZSH/oh-my-zsh.sh
